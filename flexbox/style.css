@@ -1,0 +1,25 @@
+.container{
+    display: flex-direction:column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100vh;
+    gap: 20px;
+}
+.card1{
+    background-color: #66964d;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.card2{
+    background-color: #a47192;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.card3{
+    background-color: #448feb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
